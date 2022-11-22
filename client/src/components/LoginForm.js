@@ -4,7 +4,7 @@ import { Form, Button, Alert } from 'react-bootstrap';
 import { useMutation } from '@apollo/client';
 import { LOGIN_USER } from '../utils/mutations';
 
-import { loginUser } from '../utils/API';
+// import { loginUser } from '../utils/API';
 import Auth from '../utils/auth';
 
 const LoginForm = () => {
@@ -27,7 +27,7 @@ const LoginForm = () => {
     // if (form.checkValidity() === false) {
     //   event.preventDefault();
     //   event.stopPropagation();
-    // }
+    // } 
 
     try {
       const { data } = await loginUser({
