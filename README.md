@@ -52,8 +52,8 @@ And NPM install needs to be run on both the client and server directories.
 ## Usage
 
 
- ![screenshot](/assets/Screen%20Shot%202022-11-21%20at%2010.26.50%20PM.pngScreen%20Shot%202022-11-21%20at%2010.26.50%20PM.png)
-  ![screenshot](/assets/Untitled_%20Nov%2022%2C%202022%209_17%20PM.gifUntitled_%20Nov%2022%2C%202022%209_17%20PM.gif)
+ ![screenshot](/assets/Screen%20Shot%202022-11-21%20at%2010.26.50%20PM.png)
+  ![screenshot](/assets/Untitled_%20Nov%2022%2C%202022%209_17%20PM.gif)
 ## License
 MIT License
   http://choosealicense.com/licenses/mit/<br>
