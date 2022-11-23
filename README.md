@@ -53,7 +53,7 @@ And NPM install needs to be run on both the client and server directories.
 
 
  ![screenshot](Screen%20Shot%202022-11-21%20at%2010.26.50%20PM.png)
- 
+  ![screenshot](/Untitled_%20Nov%2022%2C%202022%209_17%20PM.gif)
 ## License
 MIT License
   http://choosealicense.com/licenses/mit/<br>
@@ -63,3 +63,5 @@ MIT License
 [@jesciak](https://github.com/jesciak/)
 
 ## Links
+
+https://get-litty.herokuapp.com/
